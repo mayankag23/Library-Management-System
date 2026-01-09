@@ -11,7 +11,9 @@ For a test run, Add some books by following the instructions. e.g. Book1: Title 
 
   **Book2:	Title - Book2**
 		# Author - TheAuthor
+		
 		# ISBN - 9780747532881
+		
 		# Publication - AnyPublication
 Add some users of both type, students and professors. e.r. Student: Name- Akshunya User id - akshunyav password - password
 
